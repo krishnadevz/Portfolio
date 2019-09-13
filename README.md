@@ -8,3 +8,7 @@
 3.<b>CSS is large but html is less media query taken from css tricks</b>
 
 4.Suggestions are Welcome Thank You Stay Tuned.
+
+## Author
+
+* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
